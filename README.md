@@ -1,4 +1,4 @@
-# Vim_commands
+# Vim commands
 A list of Vim commands that I find useful.
 
 Add a line break
@@ -12,7 +12,7 @@ J
 ```
 
 Add / remove indentation
-">> and <<"
+```>>``` and ```<<```
 
 
 :ab linux GNU/Linux
