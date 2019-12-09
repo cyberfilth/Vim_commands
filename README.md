@@ -14,21 +14,22 @@ A list of Vim commands that I find useful.
 ```:ab linux GNU/Linux```
 A useful example would be ```:ab teh the```
 
-### clear abbreviations
+### Clear abbreviations
 ```:abc```
 
+### Split window horizontally
+```:sp```
 
-:sp
-Split window
+### Split window vertically
+```:vs```
 
-:vs
-Vertical split
+### Change width of window
+```CTRL+w < >```
 
-CTRL+w < >
-change width of window
+### Change height of window
+```CTRL+w - +```
 
-CTRL+w - +
-change height of window
-
-:%!xxd
-use VIM as a hex editor, :%!xxd -r go back to normal mode before saving any changes
+### Use VIM as a hex editor
+```:%!xxd```
+go back to normal mode before saving any changes
+```:%!xxd -r```
