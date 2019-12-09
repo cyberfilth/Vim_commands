@@ -10,7 +10,7 @@ A list of Vim commands that I find useful.
 ### Add / remove indentation
 ```>>``` and ```<<```
 
-### set an abbreviation, everytime you type 'linux' it will autocorrect to 'GNU/Linux'
+### Set an abbreviation, everytime you type 'linux' it will autocorrect to 'GNU/Linux'
 ```:ab linux GNU/Linux```
 A useful example would be ```:ab teh the```
 
