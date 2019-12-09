@@ -11,9 +11,9 @@ Joins a line to the one below it
 J
 ```
 
+Add / remove indentation
+">> and <<"
 
->> and <<
-indent and remove indent
 
 :ab linux GNU/Linux
 set an abbreviation, everytime you type 'linux' it will autocorrect to 'GNU/Linux'
