@@ -1,13 +1,16 @@
 # Vim_commands
 A list of Vim commands that I find useful.
 
+Add a line break
 ```
 r [enter]
 ```
-adds a line break
 
-J
 Joins a line to the one below it
+```
+J
+```
+
 
 >> and <<
 indent and remove indent
