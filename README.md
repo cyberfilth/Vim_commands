@@ -1,7 +1,7 @@
 # Vim commands
 A list of Vim commands that I find useful.
 
-Add a line break
+##Add a line break
 ```r [enter]```
 
 Joins a line to the one below it
