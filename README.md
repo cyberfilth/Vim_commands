@@ -4,17 +4,17 @@ A list of Vim commands that I find useful.
 ### Add a line break
 ```r [enter]```
 
-Joins a line to the one below it
+### Joins a line to the one below it
 ```J```
 
-Add / remove indentation
+### Add / remove indentation
 ```>>``` and ```<<```
 
-set an abbreviation, everytime you type 'linux' it will autocorrect to 'GNU/Linux'
+### set an abbreviation, everytime you type 'linux' it will autocorrect to 'GNU/Linux'
 ```:ab linux GNU/Linux```
 A useful example would be ```:ab teh the```
 
-clear abbreviations
+### clear abbreviations
 ```:abc```
 
 
