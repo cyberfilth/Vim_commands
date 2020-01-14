@@ -10,6 +10,16 @@ A list of Vim commands that I find useful.
 ### Add / remove indentation
 ```>>``` and ```<<```
 
+### Collapse / fold code
+Select code block in visual mode then
+```zf             # Fold the selected code
+za             # Fold / unfold text at cursor position
+zM             # Fold all foldable code
+zR             # unfold all foldable code
+:mkview        # Save fold information before saving file
+:loadview      # Load fold information after loading file
+```
+
 ### Autocomplete abbreviations
 ```
 :ab linux GNU/Linux  # When 'linux' is typed it will autocorrect to GNU/Linux
