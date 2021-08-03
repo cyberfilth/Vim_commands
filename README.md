@@ -23,6 +23,8 @@ zR             # unfold all foldable code
 ### Autocomplete abbreviations
 ```
 :ab linux GNU/Linux  # When 'linux' is typed it will autocorrect to GNU/Linux
+:ab                  # List all abbreviations
+:unab linux          # Remove 'linux' from abbreviations
 :abc                 # Clear all abbreviations from memory
 ```
 
