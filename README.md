@@ -9,6 +9,7 @@ A list of Vim commands that I find useful.
 
 ### Add / remove indentation
 ```>>``` and ```<<```
+Indentation is set by shiftwidth, the default is 8 spaces
 
 ### Collapse / fold code
 Select code block in visual mode then
