@@ -4,12 +4,14 @@ A list of Vim commands that I find useful.
 ### Add a line break
 ```r [enter]```
 
+
 ### Joins a line to the one below it
 ```J```
 
 ### Add / remove indentation
-```>>``` and ```<<```
+```>>``` and ```<<```\
 Indentation is set by shiftwidth, the default is 8 spaces
+
 
 ### Collapse / fold code
 Select code block in visual mode then
