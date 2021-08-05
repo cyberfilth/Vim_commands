@@ -44,3 +44,8 @@ CTRL+w - +  # Change height of window
 :%!xxd       # View file as hex editor
 :%!xxd -r    # Go back to normal mode before saving any changes
 ```
+
+### Get Word Count in current file (require wc to be installed)
+```
+:w !wc -w
+```
