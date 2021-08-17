@@ -55,3 +55,9 @@ Select text in visual mode then
 ```
 "*y
 ```
+
+### Multi-line insert - like commenting out code
+CTRL + v top go into visual mode
+Highlight the lines you want to change
+SHIFT + i and type in the text you want
+ESC (then wait a second)
