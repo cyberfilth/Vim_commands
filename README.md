@@ -49,3 +49,9 @@ CTRL+w - +  # Change height of window
 ```
 :w !wc -w
 ```
+
+### Copy text to system clipboard
+Select text in visual mode then
+```
+"*y
+```
