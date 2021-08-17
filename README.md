@@ -61,3 +61,17 @@ Select text in visual mode then
 - Highlight the lines you want to change
 - SHIFT + i and type in the text you want
 - ESC (then wait a second)
+
+### Multi-line edit
+- Search for the word to change
+```
+/searchString
+```
+- press ENTER
+```
+cgn
+```
+- Stands for Change. Get the string. Next match
+- Type in replacement word
+- ESC
+- Press . to change the next match
