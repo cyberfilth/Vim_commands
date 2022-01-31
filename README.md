@@ -75,3 +75,8 @@ cgn
 - Type in replacement word
 - ESC
 - Press . to change the next match
+
+### Delete everything inside quotation marks
+```
+di"
+```
