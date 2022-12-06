@@ -39,6 +39,14 @@ CTRL+w < >  # Change width of window
 CTRL+w - +  # Change height of window
 ```
 
+### Move a window
+```
+CTRL+w H    # Move active window to the Left of the screen
+CTRL+w L    # Move active window to the Right of the screen
+CTRL+w J    # Move active window to the Bottom of the screen
+CTRL+w K    # Move active window to the Top of the screen
+```
+
 ### Use VIM as a hex editor
 ```
 :%!xxd       # View file as hex editor
