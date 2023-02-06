@@ -61,7 +61,7 @@ CTRL+w K    # Move active window to the Top of the screen
 ### Copy text to system clipboard
 Select text in visual mode then
 ```
-"*y
+"+y
 ```
 
 ### Multi-line insert - like commenting out code
