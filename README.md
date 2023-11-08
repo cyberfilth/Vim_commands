@@ -64,6 +64,11 @@ Select text in visual mode then
 "+y
 ```
 
+### Paste text from system clipboard
+```
+"+p
+```
+
 ### Multi-line insert - like commenting out code
 - CTRL + v top go into visual mode
 - Highlight the lines you want to change
